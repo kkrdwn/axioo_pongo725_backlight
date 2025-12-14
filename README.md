@@ -6,3 +6,6 @@ A simple and portable control application for the Axioo Pongo 725 laptop running
 sudo pacman -S --needed python-gobject gtk3
 ````
 ## Clone :
+```
+git clone --depth 1 https://github.com/kkrdwn/axioo_pongo725_backlight.git
+```
