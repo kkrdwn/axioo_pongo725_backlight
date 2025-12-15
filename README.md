@@ -17,15 +17,16 @@ https://youtu.be/VFOXhH-WwCY
 ```
 sudo pacman -S --needed python-gobject gtk3
 ````
-### 2. yay packages :
+### 2. yay package :
 ```
 yay -S --needed clevo-drivers-dkms-git
 ```
 ### 3. Clone :
 ```
-git clone --depth 1 https://github.com/kkrdwn/axioo_pongo725_backlight.git
+git clone --depth 1 https://github.com/kkrdwn/pongo725-backlight.git
 ```
 ### 4. Give permission script
+Open your clone directory use `cd` and then execute this command for give the script permission:
 ```
 chmod +x ./main.py
 ```
