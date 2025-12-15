@@ -5,6 +5,7 @@ A simple and portable control application for the Axioo Pongo 725 laptop running
 <img width="597" height="476" alt="image" src="https://github.com/user-attachments/assets/2aaad82d-cb48-4e28-9532-dcfaeda583fb" />
 
 ## Demo Video
+https://youtu.be/VFOXhH-WwCY
 <p align="center">
   <a href="https://youtu.be/VFOXhH-WwCY">
     <img src="https://img.youtube.com/vi/VFOXhH-WwCY/maxresdefault.jpg" />
